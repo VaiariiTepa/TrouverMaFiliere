@@ -8,10 +8,10 @@
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
-        <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous"> -->
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
         <link href="{{ asset('css/app.css') }}" rel="stylesheet">
         <link href="{{ asset('css/template.css') }}" rel="stylesheet">
-        <link href="{{ asset('css/bootstrap.css') }}" rel="stylesheet">
+        <!-- <link href="{{ asset('css/bootstrap.css') }}" rel="stylesheet"> -->
         <!-- Styles -->
         <style>
             *{
@@ -745,23 +745,6 @@
                             </div>
                         </div>
                     </div>
-
-                    <!-- exemple checkbox limited -->
-                    <!-- <div class="row">
-                        <form name=form1 method=post action=check.php>
-                            <table border=''0'' width=''250'' cellspacing=''0'' cellpadding=''0'' align=center>
-                                <tr bgcolor=''#ffffcc''><td ></td><td ><b>Choice</b></td></tr>
-                                <tr bgcolor=''#f1f1f1'' ><td ><input type=checkbox name=ckb value=1 onclick='chkcontrol(0)';></td><td >PHP</td></tr>
-                                <tr bgcolor=''#ffffff'' ><td ><input type=checkbox name=ckb value=2 onclick='chkcontrol(1)'></td><td >Perl</td></tr>
-                                <tr bgcolor=''#f1f1f1'' ><td ><input type=checkbox name=ckb value=3 onclick='chkcontrol(2)'></td><td >MySQL</td></tr>
-                                <tr bgcolor=''#ffffff'' ><td ><input type=checkbox name=ckb value=4 onclick='chkcontrol(3)'></td><td >ASP</td></tr>
-                                <tr bgcolor=''#f1f1f1'' ><td ><input type=checkbox name=ckb value=5 onclick='chkcontrol(4)'></td><td >JavaScript</td></tr>
-                                <tr bgcolor=''#ffffff'' ><td ><input type=checkbox name=ckb value=6 onclick='chkcontrol(5)'></td><td >CSS</td></tr>
-                                <tr bgcolor=''#f1f1f1'' ><td ><input type=checkbox name=ckb value=7 onclick='chkcontrol(6)'></td><td >HTML</td></tr>
-                                <tr bgcolor=''#ffffff'' ><td ><input type=checkbox name=ckb value=8 onclick='chkcontrol(7)'></td><td >Photo Shop</td></tr>
-                            </table>
-                        </form>
-                    </div> -->
                 </div>
 
             </div>
