@@ -23,6 +23,10 @@
                 color:  white;
             }
 
+            .navbar {
+                padding: 0;
+                background-color: #40D2D5;
+            }
 
             #grad1 {
                 background-color: : #9C27B0;
