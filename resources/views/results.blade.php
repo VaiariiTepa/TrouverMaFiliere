@@ -27,10 +27,6 @@
             border-radius: 10px 10px 10px 10px;
         }
 
-        .hidden{
-            display: none;
-        }
-
         .all_filiere{
             display: none;
             color: white;
@@ -821,15 +817,10 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" crossorigin="anonymous"></script>        
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.min.js" integrity="sha384-+YQ4JLhjyBLPDQt//I+STsc9iw4uQqACwlvpslubQzn4u2UU2UFM80nGisd026JF" crossorigin="anonymous"></script>
-    <!-- <script src="{{ asset('js/jquery.min.js') }}"></script> -->
-    <!-- <script src="{{ asset('js/app.js') }}"></script> -->
-    <!-- <script src="{{ asset('js/bootstrap.bundle.js') }}"></script>
-    <script src="{{ asset('js/bootstrap.js') }}"></script> -->
-    <script src="{{ asset('js/main.js') }}"></script>
-    <script src="{{ asset('js/counterup.min.js') }}"></script>
-    <script src="{{ asset('dist/Chart.bundle.js') }}"></script>
-    <script src="{{ asset('dist/Chart.js') }}"></script>
-    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
+    <script src="js/main.js"></script>
+    <script src="js/counterup.min.js"></script>
+    <script src="dist/Chart.bundle.js "></script>
+    <script src="dist/Chart.js "></script>
     <script language="javascript">
         $(document).ready(function(){
 
