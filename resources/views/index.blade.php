@@ -26,7 +26,6 @@
             .navbar {
                 padding: 0;
                 background-color: #40D2D5;
-                z-index: 10;
             }
 
             .navbar-brand{
