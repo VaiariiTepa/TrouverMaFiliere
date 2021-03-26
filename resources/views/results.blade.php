@@ -11,7 +11,7 @@
     <link href="https://fonts.googleapis.com/css?family=Nunito:200,600" rel="stylesheet">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
     <link href="{{ asset('css/bootstrap.css') }}" rel="stylesheet">
-    <link href="{{ asset('css/template.css') }}" rel="stylesheet">
+    <link href="css/template.css" rel="stylesheet">
     <style>
 
         *{
@@ -829,7 +829,7 @@
     <script src="{{ asset('js/counterup.min.js') }}"></script>
     <script src="{{ asset('dist/Chart.bundle.js') }}"></script>
     <script src="{{ asset('dist/Chart.js') }}"></script>
-    <!-- <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script> -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@2.8.0"></script>
     <script language="javascript">
         $(document).ready(function(){
 
